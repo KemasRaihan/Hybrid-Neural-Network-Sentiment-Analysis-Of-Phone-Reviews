@@ -1,3 +1,3 @@
-# Analysis-Of-Common-Words-In-Customer-Reviews-Of-Phones-Using-Neural-Networks
+# Hybrid Neural Network Sentiment Analysis of Phone Reviews
 
-Code for Development Project
+My final-year BSc Computer Science project which I received a grade of 77 (first-class).
